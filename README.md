@@ -58,7 +58,32 @@ Simple Checkout View	              | Allows users to finalize their booking easi
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 	
 
+### Design Properties
 
+#### Color Styles
+Role	Color
+Primary Color	#34967C
+Secondary Color	#FFA800
+Background Color #FFFFFF
+Card Background	#F7F7F7
+Accent Color	#00A699
+Text Primary	#161117
+Text Muted	#929292
+
+#### Typography
+Property	Value
+Font Family	Quicksand
+Font Weights	400 (Regular), 500 (Medium), 700 (Bold)
+Font Sizes	12px (Caption), 14px (Small Text), 16px (Body), 24px (Subtitle), 32px (Title)
+
+### Importance of Identifying Design Properties
+
+#### Defining design properties from a mockup ensures visual consistency and improves development efficiency:
+🔄 Consistency Across UI: Reusing standard colors and typography helps maintain a professional, cohesive look.
+🧱 Scalable Design System: Makes it easier to scale the app or introduce new features without visual clutter.
+🎯 Alignment With UX Goals: Ensures spacing, contrast, and readability meet accessibility standards.
+⚡ Faster Development: Developers can reference predefined styles instead of guessing, reducing back-and-forth between design and code.
+🧪 Improved Testing and Feedback: Design alignment allows for better user testing and easier design QA.
 
 		
 
