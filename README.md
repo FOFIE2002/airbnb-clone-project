@@ -174,5 +174,7 @@ Skeleton Loader	Placeholder UI for content that is still loading (e.g., cards, p
 
 Toast Notification	Displays temporary messages for feedback (success, error, info).
 
+# Project Roles and Responsibilities
 
+This section outlines the core team roles essential to the successful delivery of the Airbnb clone project. Each team member contributes specialized skills that collectively ensure a high-quality, user-centered product.
 
